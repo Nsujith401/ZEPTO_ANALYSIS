@@ -1,6 +1,6 @@
-ZEPTO_ANALYSIS
+BIG BASKET_ANALYSIS
 ---------------------
-This project analyzes Zepto product and sales data using PostgreSQL.
+This project analyzes BIG BASKET product and sales data using PostgreSQL.
 The goal was to perform SQL-based data cleaning and extract business insights from the dataset.
 
 Data Workflow
