@@ -1,4 +1,4 @@
-BIG BASKET_ANALYSIS
+BIG BASKET_INVENTORY_MANAGEMENT
 ---------------------
 This project analyzes BIG BASKET product and sales data using PostgreSQL.
 The goal was to perform SQL-based data cleaning and extract business insights from the dataset.
